@@ -36,4 +36,4 @@ Perfect for homelabs, VPS fleets, bare-metal clusters, or quickly adding monitor
 1. Download the script:
 
    ```bash
-   wget https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/install-node-exporter.sh
+   wget https://raw.githubusercontent.com/lojack2005-bit/scripts/main/install-node-exporter.sh
